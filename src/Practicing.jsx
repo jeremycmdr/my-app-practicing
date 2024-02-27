@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Practicing.css";
+//import "./Practicing.css";
 import Toggle from "./Toggle";
 
 const Practicing = () => {
