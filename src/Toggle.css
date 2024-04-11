@@ -1,6 +1,8 @@
 .toggle {
   width: 50px;
   height: 26px;
+  margin-bottom: 50px;
+
   background-color: #ccc;
   border-radius: 25px;
   position: relative;
@@ -25,4 +27,9 @@
 
 .toggle.active .slider {
   transform: translateX(25px) translateY(-50%);
+}
+
+.form_input {
+  display: block;
+  margin-bottom: 20px;
 }
